@@ -1,0 +1,35 @@
+1647897024171	geckodriver	INFO	Listening on 127.0.0.1:36589
+1647897051735	geckodriver	INFO	Listening on 127.0.0.1:40795
+1647897051739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52001" "-no-remote" "-profile" "/tmp/rust_mozprofilezIknlj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647897053838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezIknlj/search.json.mozlz4", (void 0)))
+JavaScript warning: moz-extension://d4e8a25f-6e0d-4efb-9b52-7b9412443902/background.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+DevTools listening on ws://localhost:52001/devtools/browser/ed5b361b-cd32-4fb2-808b-adc7fbeb0e76
+1647897058213	Marionette	INFO	Listening on port 37589
+1647897058314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pypi.org"
+1647897090077	geckodriver	INFO	Listening on 127.0.0.1:36653
+1647897090081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42823" "-no-remote" "-profile" "/tmp/rust_mozprofilePuvWJ0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647897091517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePuvWJ0/search.json.mozlz4", (void 0)))
+JavaScript warning: moz-extension://3dc84ada-5e78-4c43-85ff-023481a390ae/background.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+DevTools listening on ws://localhost:42823/devtools/browser/c4bb4f49-f64f-4f35-9b1a-bbebf493f46d
+1647897094439	Marionette	INFO	Listening on port 41567
+1647897094541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pypi.org"
+1647902430882	Marionette	INFO	Stopped listening on port 37589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647902431798	Marionette	INFO	Stopped listening on port 41567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

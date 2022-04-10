@@ -1,0 +1,71 @@
+al crearse un data frame a el se le puede acceder a sus atributos 
+
+para aprender data science necesito conocer de numpy y pandas skit learn con esta libreria 
+podria hacer estudio o machine learning
+
+
+sql
+    revisar fot
+    -joins de tablas
+
+-matematicas estadisticas
+    -algebra lineal
+    -vectores
+    -regresion lineal
+    -dependecia e independencia lineal
+
+    calculo 
+    -derivadas
+    -ecuaciones diferenciales
+
+-visualizacion
+    -estadisticas descriptivas
+    -distribuciones
+    saber como calcular la mediana moda mean
+
+
+
+lenguajes de recoleccion 
+    -scrapy
+    -selenium
+
+de limpieza 
+    -numpy 
+    -pandas
+
+matplotlib 
+    para visualizacion de datos
+
+
+desarrollo de modelos 
+-sikitlearn 
+-tensorflow
+
+
+sql
+    revisar fot
+    -joins de tablas
+
+seaborn permite eneñar la data
+    -graficos avanzados
+-proyectos
+
+
+# al colocarse data_sets.head() asi accedo a los primeros 5 valores si le coloco un parametro definiendo cuantos data quiero ver en la encuesta de mi data set este me mostrara el numero que le pase como parametro
+
+# data_sets.tail() accedo al ultimo
+
+#data_sets.shape   cuantas columnas y filas tiene mi data frame
+
+#al lanzar data_sets.index este va ser su salida RangeIndex(start=0, stop=3, step=1)
+# Nombres    object
+# al ejecutar data.sets.dtypes me devuelve esa informacion
+
+#Edad        int64
+#dtype: object
+
+# asi se ejecuta un
+#al ejecutar data_sets.info() sale informacion del data frame
+
+
+#ejecutar data.sets.describe() me lanza valores estadisticos
